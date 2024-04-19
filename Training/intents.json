@@ -1,0 +1,63 @@
+{
+    "tags": [
+      {
+        "tag": "greeting",
+        "patterns": ["Hi", "Hello", "Hey there","Good morning"],
+        "responses": ["Hello welcome for Forklifts Training Ltd, how can I help you?", "Hey welcome for Forklifts Training Ltd, how may I assist you?", "Hi welcome for Forklifts Training Ltd, how may I help you"]
+      },
+      {
+        "tag": "goodbye",
+        "patterns": ["Goodbye", "Bye", "See you later", "Take care"],
+        "responses": ["Goodbye", "Have a nice day!"]
+      },
+      {
+        "tag": "thanks",
+        "patterns": ["Thanks", "Thank you", "That's helpful", "Thanks a lot!"],
+        "responses": ["Happy to help!", "Any time!", "My pleasure!"]
+      },
+      {
+        "tag": "TrainingInfo",
+        "patterns": ["Can you provide information about your forklift training programs?", "What courses do you offer for forklift training?", "Tell me more about your forklift certification process."],
+        "responses": ["Sure! We offer comprehensive forklift training programs that cover both theoretical knowledge and practical skills. Our courses include training on a truck of your choice. Would you like more detailed information about a specific course?",
+        "Absolutely! Our forklift training programs are designed to equip participants with the skills and knowledge needed to operate forklifts safely and efficiently. We offer various courses such as refreshers and conversions as well as courses for novice and experienced drivers. Is there a particular course you're interested in?"]
+      },
+      {
+        "tag": "Schedule",
+        "patterns": ["When is the next forklift training session?", "What are the upcoming training dates?", "Do you have any training sessions available next week?"],
+        "responses": ["Our upcoming forklift training sessions are scheduled for your needs, Would you like to reserve a spot?"]
+      },
+      {
+        "tag": "Requirements",
+        "patterns": ["What are the prerequisites for enrolling in forklift training?", "Are there any specific requirements for attending the training?", "Do I need any prior experience to join the forklift training program?"],
+        "responses": ["To enroll in our forklift training program, you must be aged 16 or older and possess a valid ID document. Prior experience is not necessary."]
+      },
+      {
+        "tag": "Cost",
+        "patterns": ["How much does the forklift training program cost?", "What is the price of the forklift certification course?", "Are there any additional fees associated with the training?"],
+        "responses": ["The cost of our forklift training program varies depending on the course you choose and any additional services you may require. Please contact us for a personalised quote."]
+      },
+      {
+        "tag": "Safety",
+        "patterns": ["Can you provide some forklift safety tips?", "What are the safety precautions I should take while operating a forklift?", "Do you offer training on forklift safety?"],
+        "responses": ["Certainly! Here are some forklift safety tips: \n1) Observations are key. \n2)Never operate your hydraulics while moving. \n3) Take your time when stacking or de-stacking. \nOur forklift training program also covers safety precautions in detail."]
+      },
+      {
+        "tag": "Certification",
+        "patterns": ["How do I get certified to operate a forklift?", "What is the process for obtaining a forklift operator license?", "Is your certification recognised by regulatory authorities?"],
+        "responses":["To obtain a forklift operator certification, you need to complete our training program and pass the certification exam. Our certification is recognised by regulatory authorities and demonstrates your competence in forklift operation.",
+        "The process for obtaining a forklift operator license involves completing our training program, passing the certification exam, and meeting any additional requirements set by regulatory authorities."]
+      },
+      {
+        "tag": "Troubleshooting",
+        "patterns": ["What should I do if my forklift is making strange noises?", "How do I troubleshoot a forklift that won't start?", "Can you help me diagnose a hydraulic issue with my forklift?"],
+        "responses":["If your forklift is making strange noises, it could indicate a possible issue. We recommend consulting your supervisor and noting the issue within the pre-shift check."]
+      },
+      {
+        "tag": "Feedback",
+        "patterns": ["I have feedback about the training session I attended", "How can I provide feedback on my training experience?", "Do you welcome suggestions for improving your training programs?"],
+        "responses":["We value your feedback! Please share your thoughts on your training experience with us on this link to <a href='https://search.google.com/local/writereview?placeid=ChIJIR1s_jeZcEgRknKrxf4Uc6o'>Google</a>. Your feedback helps us improve our training programs and services.",
+        "Thank you for offering feedback! You can provide your input on your training experience through <a href='https://search.google.com/local/writereview?placeid=ChIJIR1s_jeZcEgRknKrxf4Uc6o'>Google</a>. We appreciate your suggestions for improvement."]
+      }
+    ]
+}
+      
