@@ -7,8 +7,8 @@ import pickle
 import joblib
 from nltk.stem import WordNetLemmatizer
 
-# nltk.download('punkt')
-# nltk.download('wordnet')
+nltk.download('punkt')
+nltk.download('wordnet')
 
 lemmatizer = WordNetLemmatizer()
 
