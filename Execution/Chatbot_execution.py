@@ -9,9 +9,9 @@ from nltk.stem import WordNetLemmatizer
 from flask import Flask, request, render_template
 
 
-# nltk.download('punkt')
-# nltk.download('wordnet')
-# nltk.download('omw-1.4')
+nltk.download('punkt')
+nltk.download('wordnet')
+nltk.download('omw-1.4')
 
 os.chdir(os.path.dirname(os.path.realpath(__file__)))
 
